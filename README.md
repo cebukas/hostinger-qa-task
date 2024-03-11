@@ -12,11 +12,11 @@ git clone https://github.com/cebukas/hostinger-QA-task.git
 ```
 or simply download and extract the zip file from github.
 
+## Edit the cypress.env.json file with login credentials
+Open the cypress.env.json with a text editor and enter the missing user credentials
+
 ## Open the project in an IDE or navigate via CMD
 Open the cloned project through an IDE like VS Code or simply navigate to the project folder through cmd
-
-## Edit the cypress.env.json file with login credentials
-Open the cypress.env.json with a text editor and enter the user credentials
 
 ## Install Cypress
 ```bash
