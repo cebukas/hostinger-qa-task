@@ -1,0 +1,14 @@
+{
+  "name": "hostinger-task",
+  "version": "1.0.0",
+  "description": "cypress hostinger project",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Karolis Dijokas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+}

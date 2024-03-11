@@ -1,0 +1,12 @@
+{
+  "dataset_premium_24": {
+    "hostingType": "Premium",
+    "planDuration": "24",
+    "expectedPricePerMonth": "3.09"
+  },
+  "dataset_single_12": {
+    "hostingType": "Single",
+    "planDuration": "12",
+    "expectedPricePerMonth": "2.99"
+  }
+}
